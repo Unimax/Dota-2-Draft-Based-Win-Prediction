@@ -1,0 +1,4 @@
+Your Steam Web API Key
+Key: 95F1213EBFC1E3ED35E757F9BD2989F6
+
+Domain Name: unimax.github.io
